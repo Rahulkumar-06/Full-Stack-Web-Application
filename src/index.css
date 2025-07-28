@@ -1,0 +1,69 @@
+#toggle-container {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  /* padding: 40px; */
+  /* background: linear-gradient(145deg, #f0f0f0, #ffffff); */
+  border-radius: 20px;
+  /* box-shadow: 0 8px 16px rgba(0, 0, 0, 0.1); */
+  /* max-width: 400px; */
+  margin: 25px auto;
+}
+
+#toggle-container button {
+  padding: 12px 24px;
+  font-size: 16px;
+  font-weight: 600;
+  color: #fff;
+  border: none;
+  border-radius: 30px;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  min-width: 100px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.15);
+}
+
+/* Show Button Style */
+#showBtn {
+  background-color: #28a745;
+}
+
+#showBtn:hover {
+  background-color: #218838;
+  transform: scale(1.05);
+}
+
+/* Hide Button Style */
+#hideBtn {
+  background-color: #dc3545;
+}
+
+#hideBtn:hover {
+  background-color: #c82333;
+  transform: scale(1.05);
+}
+.custom-register-btn {
+  background: linear-gradient(135deg, #4b6cb7, #182848); /* Blue gradient */
+  border: none;
+  color: #fff;
+  font-weight: 600;
+  padding: 12px 32px;
+  border-radius: 50px;
+  transition: all 0.3s ease-in-out;
+  box-shadow: 0 8px 20px rgba(75, 108, 183, 0.4);
+}
+
+.custom-register-btn:hover {
+  background: linear-gradient(135deg, #3b5998, #455379);
+  transform: scale(1.05);
+  box-shadow: 0 10px 25px rgba(2, 62, 180, 0.5);
+}
+.hover-card {
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.hover-card:hover {
+  transform: scale(1.03); /* slightly zoom in */
+  box-shadow: 0 0 20px rgba(0, 123, 255, 0.4); /* blue glow */
+  border: 1px solid rgba(0, 123, 255, 0.3); /* soft border */
+}
