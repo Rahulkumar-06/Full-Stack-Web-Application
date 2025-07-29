@@ -68,7 +68,7 @@ spring.security.user.password=admin123
 - Authentication via Spring Security
 - Passwords stored securely (e.g., BCrypt)
 - Login, logout, and protected API routes
-
+---
 ### Features
 - Secure Login & Registration
 - JWT or Session-based Auth
