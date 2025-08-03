@@ -78,10 +78,10 @@ spring.security.user.password=admin123
 - Form validation and error handling
 ---
 # 🙋‍♂️ Author
-## Rahulkumar C
-### Email: rahulkumarc679@gmail.com
-### Phone: +91 8870822514
-### GitHub: https://github.com/Rahulkumar-06
+### Rahulkumar C
+####  Email: rahulkumarc679@gmail.com
+#### Phone: +91 8870822514
+#### GitHub: https://github.com/Rahulkumar-06
 
 
 
