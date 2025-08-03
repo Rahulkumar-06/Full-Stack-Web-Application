@@ -71,7 +71,6 @@ spring.security.user.password=admin123
 ---
 ### Features
 - Secure Login & Registration
-- JWT or Session-based Auth
 - CRUD operations (MongoDB)
 - Responsive UI with Bootstrap
 - React Router for navigation
